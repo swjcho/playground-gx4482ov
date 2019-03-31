@@ -1,3 +1,3 @@
 print("hello world")
 
-print("added online in browswer")
+print("added online in browser")
